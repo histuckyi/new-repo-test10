@@ -1,5 +1,5 @@
+class post(request):
 
-def post():
-    print('post')
+    def post():
+        pass
 
-테스트 PR1

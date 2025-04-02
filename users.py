@@ -3,3 +3,6 @@ def login():
 
 def prefix():
     pass
+
+def logout():
+    pass
